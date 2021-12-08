@@ -1,4 +1,4 @@
-<h1 align= center>CountdownTimer-TeLeTiPs</h1>
+<h1 align= center>CountdownTimer-Edu_Bots</h1>
 <h3 align = center>Powerful Telegram bot to countdown to your important events in any group chat. Live countdown timer.
 <br>(days : hours : minutes : seconds)</h3>
 <p align="center">
