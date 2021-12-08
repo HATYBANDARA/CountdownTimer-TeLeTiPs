@@ -33,6 +33,6 @@ Example:
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/HATYBANDARA/TimeCalculate-Edu_bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HATYBANDARA/TimeCalculate-Edu_bot)
     
 
