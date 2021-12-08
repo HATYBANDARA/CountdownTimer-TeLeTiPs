@@ -27,8 +27,8 @@ TELETIPS_MAIN_MENU_BUTTONS = [
             ],
             [
                 InlineKeyboardButton('👥 GROUP', callback_data="GROUP_CALLBACK"),
-                InlineKeyboardButton('📣 CHANNEL', url='https://t.me/teletipsofficialchannel'),
-                InlineKeyboardButton('👨‍💻 CREATOR', url='https://t.me/thakshakar')
+                InlineKeyboardButton('📣 CHANNEL', url='https://t.me/education_bots_project_sl'),
+                InlineKeyboardButton('👨‍💻 CREATOR', url='https://t.me/Video_chat_streamer')
             ],
             [
                 InlineKeyboardButton('➕ CREATE YOUR BOT ➕', callback_data="TUTORIAL_CALLBACK")
@@ -68,7 +68,7 @@ async def callback_query(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("🇱🇰 Anytime Any Qs", url="https://t.me/AnytimeAnyQs")
             ],
             [
-                InlineKeyboardButton("🌎 TeLe TiPs", url="https://t.me/teletipsofficialontopicchat")
+                InlineKeyboardButton("🌎Edu_bot", url="https://t.me/education_bots_project_sl")
             ],
             [
                 InlineKeyboardButton("⬅️ BACK", callback_data="START_CALLBACK"),
@@ -108,8 +108,8 @@ async def callback_query(client: Client, query: CallbackQuery):
             ],
             [
                 InlineKeyboardButton('👥 GROUP', callback_data="GROUP_CALLBACK"),
-                InlineKeyboardButton('📣 CHANNEL', url='https://t.me/teletipsofficialchannel'),
-                InlineKeyboardButton('👨‍💻 CREATOR', url='https://t.me/thakshakar')
+                InlineKeyboardButton('📣 CHANNEL', url='https://t.me/education_bots_project_sl'),
+                InlineKeyboardButton('👨‍💻 CREATOR', url='https://t.me/Video_chat_streamer')
             ],
             [
                 InlineKeyboardButton('➕ CREATE YOUR BOT ➕', callback_data="TUTORIAL_CALLBACK")
