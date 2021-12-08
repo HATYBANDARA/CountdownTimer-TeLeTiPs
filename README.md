@@ -1,4 +1,4 @@
-<h1 align= center>CountdownTimer-Edu_Bots</h1>
+<h1 align= center>TimeCalculate-Edu_Bots</h1>
 <h3 align = center>Powerful Telegram bot to countdown to your important events in any group chat. Live countdown timer.
 <br>(days : hours : minutes : seconds)</h3>
 
@@ -33,6 +33,6 @@ Example:
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/HATYBANDARA/Time-Calculate-Edu_bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/HATYBANDARA/TimeCalculate-Edu_bot)
     
 
