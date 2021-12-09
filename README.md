@@ -1,5 +1,5 @@
 <h1 align= center>TimeCalculate-Edu_Bots</h1>
-<h3 align = center>Powerful Telegram bot to countdown to your important events in any group chat. Live countdown timer.
+<h3 align = center>Powerful Telegram bot to Calculate to your important events in any group chat. Live Calculate timer.
 <br>(days : hours : minutes : seconds)</h3>
 
 ## Config Vars
@@ -10,9 +10,6 @@
 ## Commands
 ### Works in any group ( /set  &  /stopc )
 
-[🎥 Tutorial Video: ](https://www.youtube.com/watch?v=nYSrgdIYdTw)
-
-```
 > Send the command below in correct format to the group.
 
   /set seconds "event"
